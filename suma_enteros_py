@@ -1,0 +1,18 @@
+"""EJERCICIO N. de dos numeros enteros.
+Suma de dos numeros enteros"""
+
+print("--------------------------------")
+print("-------SUMA ENTEROS ------------")
+print("--------------------------------")
+
+# imput
+x = int(input("Digite el valor de x: "))
+y = int(input("Digite el valor de y: "))
+
+# processiong
+z = x + y
+
+# output 
+print("la suma de " + str(x) + " y " + str(y) +" es " + str(z))
+
+
